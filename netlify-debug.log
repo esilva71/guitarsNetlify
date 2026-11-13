@@ -21,3 +21,5 @@ Request from ::1: GET /.netlify/functions/guitars
 Response with status 200 in 44 ms.
 Request from ::1: GET /.netlify/functions/guitars
 Response with status 200 in 4 ms.
+⬥ Reloading function guitars...
+⬥ Reloaded function guitars
