@@ -6,4 +6,5 @@ const guitars = [
     { id: uuidv4(), brand: "PRS", model: "Custom 24", color: "Charcoal Burst", year: 2020, price: 3500 }
 ];
 
+
 module.exports = guitars;
